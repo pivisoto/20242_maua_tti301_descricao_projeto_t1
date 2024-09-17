@@ -1,0 +1,18 @@
+{
+  "name": "arquitetura_t1",
+  "version": "1.0.0",
+  "description": "PIETRO VIVAL SOTO | RA: 22.01046-7\r ISABELLA MADUREIRA SANCHES | RA: 22.00108-5\r PAULO EDUARDO PALAURO | RA: 22.01234-5\r PEDRO OREFICE FOLKMANN | RA: 22.00234-0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
