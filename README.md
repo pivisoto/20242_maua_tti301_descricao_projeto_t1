@@ -1,4 +1,11 @@
-PIETRO VIVAL SOTO | RA: 22.01046-7
-ISABELLA MADUREIRA SANCHES | RA: 22.00108-5
-PAULO EDUARDO PALAURO | RA: 22.01234-5
-PEDRO OREFICE FOLKMANN | RA: 22.00234-0
+# Contribuintes do Projeto
+
+Este projeto conta com a colaboração dos seguintes participantes:
+
+| Nome                         | RA                 |
+|------------------------------|--------------------|
+| **Pietro Vival Soto**        | 22.01046-7         |
+| **Isabella Madureira Sanches**| 22.00108-5        |
+| **Paulo Eduardo Palauro**    | 22.01234-5         |
+| **Pedro Orefice Folkmann**   | 22.00234-0         |
+
