@@ -1,4 +1,5 @@
 const express = require("express");
+const axios = require("axios");
 const app = express();
 app.use(express.json());
 const baseConsulta = {};
@@ -41,7 +42,3 @@ app.listen(6000, async() => {
     }catch (err) {}
   });
 });
-
-app.listen(6000, () => {
-    console.log('Consulta. Porta 6000.')
-})
